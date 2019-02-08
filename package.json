@@ -1,0 +1,27 @@
+{
+  "name": "thisfile",
+  "version": "0.1.0",
+  "description": "none",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.16.4",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jastolfo/internetComputing.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Jerry Duong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jastolfo/internetComputing/issues"
+  },
+  "homepage": "https://github.com/Jastolfo/internetComputing#readme"
+}
